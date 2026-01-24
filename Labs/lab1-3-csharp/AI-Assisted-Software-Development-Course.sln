@@ -6,7 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Labs", "Labs", "{908A2AE8-7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lab1-3-csharp", "lab1-3-csharp", "{A1AFD6FE-1FE3-D113-5441-0CDDC42750A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "Labs\lab1-3-csharp\BookLibrary.csproj", "{30058389-9577-FF3F-EBA4-048B0EA0BE87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "BookLibrary.csproj", "{30058389-9577-FF3F-EBA4-048B0EA0BE87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
